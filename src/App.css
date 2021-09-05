@@ -28,6 +28,16 @@
   color: #61dafb;
 }
 
+.container {
+  max-width: 60vw;
+  margin: 10rem auto;
+}
+h1 {
+  font-size: 60px;
+  color: rgb(43, 126, 98);
+  border-bottom: 2px solid black;
+  letter-spacing: 5px;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
